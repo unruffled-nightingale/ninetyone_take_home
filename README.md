@@ -1,7 +1,7 @@
-#NinetyOne Take Home
+# NinetyOne Take Home
 
 
-###Run
+### Run
 
 To run the application (with the example file), run: 
 
@@ -11,7 +11,7 @@ To run the application (with a different file), run:
 
 `python3 -m ninetyone_take_home.main <YOUR FILE PATH>` 
 
-###Test
+### Test
 
 To test the application, run `pip install pytest && pytest tests`
 
